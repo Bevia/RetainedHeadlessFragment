@@ -17,9 +17,9 @@ To retain stateful objects in a fragment during a runtime configuration change:
 
 Developed with Android Studio 1.5.1
 
- compileSdkVersion 23
- buildToolsVersion "23.0.2"
- minSdkVersion 15
- targetSdkVersion 23
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+    minSdkVersion 15
+    targetSdkVersion 23
 
 Cheers!
